@@ -2,8 +2,8 @@
 ### Hello 
 My name is Sushant Singh and I'm a software engineer, living in Jaipur.
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sushantbibhu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sushantbibhu) 
+## You can find me on:
+[![LinkedIn](https://img.shields.io/badge/Linkdin-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](https://linkedin.com/in/sushantbibhu) [![X](https://img.shields.io/badge/X-informational?style=flat&logo=X&logoColor=white&color=2bbc8a)](https://x.com/sushantbibhu) 
 
 # Technologies & Tools:
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
