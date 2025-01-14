@@ -1,6 +1,5 @@
 ![Header](https://github.com/thisissushant/thisissushant/blob/main/Sushant%20Singh%20(2).png "Header")
-### Hello 
-My name is Sushant Singh and I'm a software engineer, living in Jaipur.
+### Hello My name is Sushant Singh, and I am a Software Engineer based in Jaipur.
 
 ## You can find me on:
 [![LinkedIn](https://img.shields.io/badge/Linkdin-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](https://linkedin.com/in/sushantbibhu) [![X](https://img.shields.io/badge/X-informational?style=flat&logo=X&logoColor=white&color=2bbc8a)](https://x.com/sushantbibhu) 
