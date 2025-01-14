@@ -33,7 +33,7 @@
 ![](https://img.shields.io/badge/Socket.io-informational?style=flat&logo=socket.io&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thisissu&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=thisissushant&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thisissushant&theme=yeblu&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisissushant&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
